@@ -37,7 +37,7 @@ This project is an open source project. Open source projects give developers mor
     </div>
     <div class="col-md-12">
       <h3>801S Sound Sensor</h3>
-      <img src="[https://github.com/ertrleren/STM32NucleoF401RE_Sensitive_Sound_Sensor/assets/98084030/1d4fbbb3-3d6e-48dd-b195-c101b49c36f7](https://github.com/ertrleren/STM32NucleoF401RE_Sensitive_Sound_Sensor/assets/98084030/d031f95a-81a1-46cf-a469-d9d1088bd02a)" alt="STM32 NUCLEO F401RE" height="250" width="250">
+      <img src="https://github.com/ertrleren/STM32NucleoF401RE_Sensitive_Sound_Sensor/assets/98084030/1d4fbbb3-3d6e-48dd-b195-c101b49c36f7" alt="STM32 NUCLEO F401RE" height="250" width="250">
 
 
       
