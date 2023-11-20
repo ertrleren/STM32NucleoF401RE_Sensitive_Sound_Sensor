@@ -38,7 +38,7 @@ This project is an open source project. Open source projects give developers mor
 
    <div class="row flex-column">
     <div class="col-md-12">
-      <h3>STM32 LIGHT SENSOR</h3>
+      <h3>STM32 SOUND SENSOR</h3>
       <img src="https://github.com/ertrleren/STM32NucleoF401RE_Sensitive_Sound_Sensor/assets/98084030/57546bfd-f83e-40cc-b668-64c6a977ab22" alt="STM32 NUCLEO F401RE" height="250" width="250">
     </div>
 
